@@ -58,6 +58,11 @@ This guide highlights key datasets, their characteristics, and where to find the
 - Includes real-world usage data of a 15 Ah NMC cell during EV trips, featuring voltage, current, SOC, and driving cycles (urban, extra-urban, highway).
 - [Access Automotive Li-ion Cell Usage Data Set] https://ieee-dataport.org/documents/automotive-li-ion-cell-usage-data-set
 
+### Stanford ECL / Onori Lab Datasets 
+- Stanford’s Energy Control Lab publishes several lithium-ion cell datasets. For example, they provide NMC, NCA, and LFP cell cycling and aging data (voltage, current, temperature) under various profiles
+- They also released an aging dataset for NMC cells driven by EV profile
+- [Access Stanford ECL / Onori Lab Datasets](https://onorilab.stanford.edu/products/code-and-data-set#:~:text=%2A%20Experimental%20data%20of%20lithium,driving%20profiles)
+
 ---
 
 ## 📌 References
